@@ -1,2 +1,1 @@
-The gardens are
- green
+The gardens are green
