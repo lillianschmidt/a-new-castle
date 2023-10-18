@@ -1,1 +1,1 @@
-## The first tower is tall and big, but wish it was smaller. Cause everything on the ground is so far away.
+# The first tower is tall but wish it was smaller. Cause everything on the ground is so far away.
